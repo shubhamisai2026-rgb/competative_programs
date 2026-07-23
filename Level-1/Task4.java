@@ -45,6 +45,7 @@ public class Task4
         if(characters.length()==0)
         {
             System.out.println("no character set selected");
+            sobj.close();
             return;
         }
         System.out.println("enter password length:");                              
@@ -56,6 +57,6 @@ public class Task4
             password=password+characters.charAt(index);
         }
         System.out.println("Generated password:"+password);
-        sobj.close();
+        sobj.close(); 
     }
 }
