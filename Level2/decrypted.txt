@@ -1,0 +1,8 @@
+        I am an aspiring Software Developer with a passion for coding,
+        problem-solving, and building innovative software solutions.
+        Currently pursuing my M.Sc. (IMCA), I have a strong foundation in C,
+        C++, Java, Python, HTML, CSS, JavaScript, Flask, MongoDB, and SQL.
+        I enjoy learning new technologies, developing real-world projects, 
+        and continuously improving my programming and problem-solving skills. 
+        My goal is to become a skilled software engineer who creates efficient, 
+        scalable, and user-friendly applications while contributing to impactful software development.
